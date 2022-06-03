@@ -67,7 +67,7 @@ content:
         quote: >
           The most intrested for me
         description: | # this will include new lines to allow paragraphs
-               I build an online pharmacy with 300 products inside from zero.Τhere you can make your online purchases with many payment methods all over Greece through a wide range of products.It is very easy and at the same time very detailed to to explore it
+               I Ολοκλήρωσα στα πλαίσια προπτυχιακού μαθήματος με επιτυχία δυο ασκήσεις επιθέσεων PRIVILEGE ESCALATION και μια Remote Code Execution.build an online pharmacy with 300 products inside from zero.Τhere you can make your online purchases with many payment methods all over Greece through a wide range of products.It is very easy and at the same time very detailed to to explore it
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
