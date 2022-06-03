@@ -80,7 +80,7 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            In most jobs they ask about previous service where you gain your experience. I have no experience but I have a lot of appetite for work and exploring new projects. I have learned a lot in my university and I have still searched a lot on my own in programming languages and databases. 
+            Στον κλάδο της πληροφορικής δεν έχω εμπειρία προϋπηρεσίας αλλά έχω πολλή όρεξη για δουλειά και εξερεύνηση νέων έργων. Έχω μάθει πολλά στο πανεπιστήμιό μου και έχω ψάξει ακόμα πιο πολλά μόνος μου. Ωστόσο έχω εργαστεί στον κλάδο της εστίασης ως σερβιτόρος ενώ τα τελευταία 3 χρόνια εργάζομαι ως DJ.most jobs they ask about previous service where you gain your experience. I have no experience but I have a lot of appetite for work and exploring new projects. I have learned a lot in my university and I have still searched a lot on my own in programming languages and databases. 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
