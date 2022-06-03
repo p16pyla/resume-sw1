@@ -67,7 +67,8 @@ content:
         quote: >
           The most intrested for me
         description: | # this will include new lines to allow paragraphs
-               Ολοκλήρωσα στα πλαίσια προπτυχιακού μαθήματος με επιτυχία δυο ασκήσεις επιθέσεων PRIVILEGE ESCALATION και μια Remote Code Execution.Δούλεψα πάνω σε μια σειρά ασκήσεων με βάση το Github κι αρκετά αλλά εργαλεία στα πλαίσια εργασίας προπτυχιακού μαθήματος. Ένα αποτέλεσμα των ασκήσεων αυτών είναι το παρόν βιογραφικό. Περισσότερες πληροφορίες για αυτές τις ασκήσεις υπάρχουν στο προφίλ μου στο GitHub (sw/projects/2016136/) που βρίσκεται στην κορυφή και δεξιά του βιογραφικού μου.
+               Ολοκλήρωσα στα πλαίσια προπτυχιακού μαθήματος με επιτυχία δυο ασκήσεις επιθέσεων PRIVILEGE ESCALATION και μια Remote Code Execution.
+               
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
