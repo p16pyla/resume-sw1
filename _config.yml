@@ -48,9 +48,7 @@ github_username:  p16pyla
 # about_title: About Me
 about_profile_image: 21363078_1461677473900111_2024132859_n.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Ονομάζομαι Διονύσης Πυλαρινός και είμαι φοιτητής του Ιονίου Πανεπιστημίου του Τμήματος Πληροφορικής,αυτή τη χρονική περίοδο είμαι στο τελευταίο στάδιο φοίτησης μου όπου  κάνω την πτυχιακή μου εργασία με θέμα “Ζητήματα και αποκλίσεις κατά την εφαρμογή στρατηγικών αντιμετώπισης περιστατικών ασφάλειας πληροφοριών και ο ρόλος του ανθρώπινου παράγοντα”. Ξεκίνησα την φοίτηση μου τον Οκτώβρη του 2016 και θα αποφοιτήσω τον Σεπτέμβρη 2022. and I'm student at Ionian Univeristy. I am intersting for operation business systems(ERP) and i am olso a deejay.I am 23 years old in the 5th university student year.I live in Corfu until i finish my studys and iam from Athens
-  I am most skilled in: c,c++,java and sql
-  I also use Music softwares for djs and producers(rekordbox,fl studio)
+  Ονομάζομαι Διονύσης Πυλαρινός και είμαι φοιτητής του Ιονίου Πανεπιστημίου του Τμήματος Πληροφορικής,αυτή τη χρονική περίοδο είμαι στο τελευταίο στάδιο φοίτησης μου όπου  κάνω την πτυχιακή μου εργασία με θέμα “Ζητήματα και αποκλίσεις κατά την εφαρμογή στρατηγικών αντιμετώπισης περιστατικών ασφάλειας πληροφοριών και ο ρόλος του ανθρώπινου παράγοντα”. Ξεκίνησα την φοίτηση μου τον Οκτώβρη του 2016 και θα αποφοιτήσω τον Σεπτέμβρη 2022.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
